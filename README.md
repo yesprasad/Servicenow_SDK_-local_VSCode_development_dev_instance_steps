@@ -26,18 +26,18 @@ Once you have VSCode installed -
 
 1. type `npx @servicenow/sdk auth —list` and it will show details something like below which means the authentication is set and ready to be used.
 
-![Screenshot 2026-02-26 at 1.19.30 PM.png](Untitled/Screenshot_2026-02-26_at_1.19.30_PM.png)
+![Screenshot 2026-02-26 at 1.19.30 PM.png](attachment:0ffe3954-fa4f-42d0-ab0c-96932f3f7d4e:Screenshot_2026-02-26_at_1.19.30_PM.png)
 
 1. `mkdir my-fluent-app && cd my-fluent-app`
 2. `npm install @servicenow/sdk`
 3. now do `npx @servicenow/sdk init`
 4. it shows a list of options for creating a project
 
-![Screenshot 2026-02-26 at 1.23.13 PM.png](Untitled/Screenshot_2026-02-26_at_1.23.13_PM.png)
+![Screenshot 2026-02-26 at 1.23.13 PM.png](attachment:94f85b77-20ca-4f52-9feb-b4f5a4e57865:Screenshot_2026-02-26_at_1.23.13_PM.png)
 
 1. Try selecting → now-sdk + basic
 
-![Screenshot 2026-02-26 at 1.27.19 PM.png](Untitled/Screenshot_2026-02-26_at_1.27.19_PM.png)
+![Screenshot 2026-02-26 at 1.27.19 PM.png](attachment:af590c80-33ea-4e1f-94c1-5956e2c237be:Screenshot_2026-02-26_at_1.27.19_PM.png)
 
 1. do `npm install`
 2. it generates the below folder structure 
